@@ -1,0 +1,4 @@
+/home/salman/Desktop/gui_codes/build/calculator/CMakeFiles/calculator.dir
+/home/salman/Desktop/gui_codes/build/calculator/CMakeFiles/edit_cache.dir
+/home/salman/Desktop/gui_codes/build/calculator/CMakeFiles/rebuild_cache.dir
+/home/salman/Desktop/gui_codes/build/calculator/CMakeFiles/calculator_autogen.dir
